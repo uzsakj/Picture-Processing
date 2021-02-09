@@ -1,0 +1,3 @@
+[submodule "ConsoleApplication4"]
+	path = ConsoleApplication4
+	url = ../PictureProcessing.git
